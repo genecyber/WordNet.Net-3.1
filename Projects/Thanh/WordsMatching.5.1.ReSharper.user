@@ -1,0 +1,83 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Console`0" priority="0" />
+      <Item value="PartOfSpeech" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="semsim" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="WnLexicon" priority="0" />
+      <Item value="lexicon" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WnLexicon.WordInfo">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:Relatedness.cs" caret="4395" fromTop="113" />
+      <File id="F12805B0-D74A-4E5B-A482-7C7CCB69D572/f:Index.cs" caret="1606" fromTop="11" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:WordSenseDisambiguator.cs" caret="330" fromTop="17" />
+      <File id="F12805B0-D74A-4E5B-A482-7C7CCB69D572/f:Class1.cs" caret="1245" fromTop="15" />
+      <File id="F12805B0-D74A-4E5B-A482-7C7CCB69D572/f:wnhelp.cs" caret="0" fromTop="0" />
+      <File id="F12805B0-D74A-4E5B-A482-7C7CCB69D572/f:SynSet.cs" caret="0" fromTop="0" />
+      <File id="F12805B0-D74A-4E5B-A482-7C7CCB69D572/f:wordnet.cs" caret="0" fromTop="0" />
+      <File id="F12805B0-D74A-4E5B-A482-7C7CCB69D572/f:util.cs" caret="1335" fromTop="8" />
+      <File id="F12805B0-D74A-4E5B-A482-7C7CCB69D572/f:Lexicon.cs" caret="4586" fromTop="14" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="7176" fromTop="19" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:DemoTest.cs" caret="1308" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F12805B0-D74A-4E5B-A482-7C7CCB69D572/f:Lexicon.cs" caret="7924" fromTop="20" />
+      <File id="F12805B0-D74A-4E5B-A482-7C7CCB69D572/f:Lexicon.cs" caret="8740" fromTop="12" />
+      <File id="F12805B0-D74A-4E5B-A482-7C7CCB69D572/f:Lexicon.cs" caret="10888" fromTop="14" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:WordSenseDisambiguator.cs" caret="330" fromTop="17" />
+      <File id="F12805B0-D74A-4E5B-A482-7C7CCB69D572/f:Lexicon.cs" caret="4313" fromTop="12" />
+      <File id="F12805B0-D74A-4E5B-A482-7C7CCB69D572/f:Lexicon.cs" caret="11410" fromTop="24" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:DemoTest.cs" caret="1800" fromTop="19" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="881" fromTop="16" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="1110" fromTop="19" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="1189" fromTop="10" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="1774" fromTop="16" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="1917" fromTop="17" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="2097" fromTop="21" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="2220" fromTop="8" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="2420" fromTop="15" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="2557" fromTop="19" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="2677" fromTop="11" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="3071" fromTop="15" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="3693" fromTop="14" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="3952" fromTop="13" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="5009" fromTop="9" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="7471" fromTop="11" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="10023" fromTop="5" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="12491" fromTop="8" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="13584" fromTop="22" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="14419" fromTop="11" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="14640" fromTop="18" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="15071" fromTop="17" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:SimilarGenerator.cs" caret="7877" fromTop="15" />
+      <File id="CFFEA5F4-2374-4336-956B-F6EDB9E2FBF1/f:DemoTest.cs" caret="1308" fromTop="5" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
